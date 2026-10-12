@@ -28,6 +28,6 @@ Analyzed a messy Nigerian sales dataset (2023–2025) covering 138 transactions 
 5. Total revenue analyzed: ₦969,297,752.
 
 ## Files
-- nigeria_cleaned.xlsx — cleaned dataset
+- nigeria_cleaned_dataset.xlsx — cleaned dataset
 - nigeria_sales_dashboard.xlsx — dashboard with pivots and charts
 - dashboard.png — dashboard screenshot
